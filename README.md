@@ -2,18 +2,7 @@
 
 This project automates the extraction of trending keywords from TikTok using Selenium.  
 Then, it analyzes their relevance with Google Trends to identify potential winning products for e-commerce.
-## project architecture
-tiktok-trends/
-├──README.md
-├── main.py
-├──.gitignore
-├── requirements.txt
-├── scraper/
-│ ├── init.py
-│ ├── tiktok_scraper.py
-│ └── trends_analysis.py
-└── data/
-└── keywords.csv # created after running main.py
+
 ## Features
 - Automated keyword collection from TikTok
 - Trend analysis using Google Trends API
