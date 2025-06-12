@@ -1,0 +1,6 @@
+selenium
+pytrends
+pandas
+python-dotenv
+webdriver-manager
+
